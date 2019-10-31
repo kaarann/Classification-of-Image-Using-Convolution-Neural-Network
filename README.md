@@ -4,3 +4,14 @@ Performed Classification using Deep Learning, Artificial Neural Networks.
 Perform Supervised Learning using Python.
 Classify the Animal using CNN (dogs or Cats)
 Implementing Keras and TensorFlow to Classify the Image
+requied Software -
+
+Python 3.6
+
+Jupyter Notebook
+
+pandas module
+
+Numpy module
+
+Scipy module
